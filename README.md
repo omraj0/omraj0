@@ -16,7 +16,10 @@
 
 - 💬 Ask me about **Backend development with Django, creating RESTful APIs, building dynamic full-stack web apps using React.js**, and **machine learning projects like Food Vision System**.
 
-- 📫 How to reach me **Email: omraj010@gmail.com ✉️**
+- 📫 How to reach me -  
+  **Portfolio**: [Visit Portfolio](https://omraj0.github.io/) 🌐  
+  **Email**: [omraj010@gmail.com](mailto:omraj010@gmail.com) ✉️
+
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to eat! 🍕💻**
 
