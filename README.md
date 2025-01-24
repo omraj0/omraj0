@@ -62,17 +62,23 @@
 
 - [**Profile Map Navigator**](https://profile-navigator-with-map.vercel.app/): A web app for viewing and navigating user profiles through an interactive map interface. Features include map-based navigation and profile search, creating a seamless user experience.
 
-- [**Food Vision**](https://github.com/omraj0/Food-Vision): A machine learning project that classifies food items using CNNs, focusing on Indian cuisine. It accurately identifies food items from images, aiding in the classification process.
+- [**Food Vision**](https://github.com/omraj0/Food-Vision): A deep learning project that classifies food items using CNNs, focusing on Indian cuisine. It accurately identifies food items from images, aiding in the classification process.
 
 - [**Fruits and Vegetables Recognition**](https://github.com/omraj0/Food-and-Vegetable-Recognition-): A fruit and vegetable recognition system using a custom CNN model with high accuracy. It helps in real-time recognition of various fruits and vegetables.
 
 - [**Blog Website**](https://github.com/omraj0/Blog-Website): A blog website that allows users to create, read, and edit blogs. It includes features such as authentication, dynamic blog management, and a clean interface for an optimal user experience.
 
-- [**E-CookBook**](https://e-cook-book.vercel.app/): A recipe finder app that helps users find recipes based on ingredients or dishes. It integrates with the Edamam API and features a clean UI, filtering options, and displays key recipe
+- [**E-CookBook**](https://e-cook-book.vercel.app/): A recipe finder app that helps users find recipes based on ingredients or dishes. It integrates with the Edamam API and features a clean UI, filtering options, and displays key recipe.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omraj0&show_icons=true&locale=en&layout=compact" alt="omraj0" /></p>
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omraj0&show_icons=true&locale=en&layout=compact" alt="omraj0" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omraj0&show_icons=true&locale=en" alt="omraj0" /></p>
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=omraj0&show_icons=true&locale=en" alt="omraj0" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omraj0&" alt="omraj0" /></p>
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omraj0" alt="omraj0" />
+</p>
