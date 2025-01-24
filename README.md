@@ -71,11 +71,11 @@
 - [**E-CookBook**](https://e-cook-book.vercel.app/): A recipe finder app that helps users find recipes based on ingredients or dishes. It integrates with the Edamam API and features a clean UI, filtering options, and displays key recipe.
 
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+<p align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omraj0&show_icons=true&locale=en&layout=compact" alt="omraj0" />
   <img src="https://github-readme-stats.vercel.app/api?username=omraj0&show_icons=true&locale=en" alt="omraj0" />
 </p>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omraj0" alt="omraj0" />
 </p>
