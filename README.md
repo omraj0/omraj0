@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Backend Development at Analytics Vidhya**, focusing on building scalable and efficient systems using Django.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://omraj0.github.io/myPortfolio/)
-
 - 💬 Ask me about **Backend development with Django, creating RESTful APIs, building dynamic full-stack web apps using React.js**, and **machine learning projects like Food Vision System**.
 
 - 📫 How to reach me **✉️ Email: omraj010@gmail.com**
@@ -17,7 +15,7 @@
 
 ---
 
-### Connect with me:
+### Connect with me 🤝:
 <p align="center">
   <a href="https://linkedin.com/in/om-raj-915695228" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-raj-915695228" height="30" width="40" /></a>
   <a href="https://kaggle.com/zorgyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zorgyy" height="30" width="40" /></a>
@@ -31,7 +29,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools 💻:
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -56,7 +54,7 @@
 
 ---
 
-### Some of My Projects:
+### Some of My Projects 🛠️:
 
 - [**Placement Portal**](https://placement-portal-by-om.netlify.app/): A MERN stack web app designed for NIT Patna's placement process. It replaces WhatsApp updates with a portal where coordinators post detailed company cards (CTC, stipend, roles, etc.) using JWT for authentication. It provides a streamlined experience, reducing confusion and ensuring accessibility.
 
