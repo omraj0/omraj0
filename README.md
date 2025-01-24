@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Om Raj</h1>
+
 <h3 align="center">A passionate Software Developer from India, specializing in backend development and full-stack development.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=omraj0&label=Profile%20views&color=0e75b6&style=flat" alt="omraj0" />
 </p>
 
+<p align="center"> 
+  <a href="https://rishavchanda.io">
+    <img src="https://miro.medium.com/v2/resize:fit:679/0*FGD6BUzzZs1VJLuY.gif" alt="MasterHead" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on **Backend Development at Analytics Vidhya**, focusing on building scalable and efficient systems using Django.
 
 - 💬 Ask me about **Backend development with Django, creating RESTful APIs, building dynamic full-stack web apps using React.js**, and **machine learning projects like Food Vision System**.
 
-- 📫 How to reach me **✉️ Email: omraj010@gmail.com**
+- 📫 How to reach me **Email: omraj010@gmail.com ✉️**
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to eat! 🍕💻**
 
@@ -31,7 +38,6 @@
 
 ### Languages and Tools 💻:
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
@@ -47,7 +53,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
@@ -56,18 +61,41 @@
 
 ### Some of My Projects 🛠️:
 
-- [**Placement Portal**](https://placement-portal-by-om.netlify.app/): A MERN stack web app designed for NIT Patna's placement process. It replaces WhatsApp updates with a portal where coordinators post detailed company cards (CTC, stipend, roles, etc.) using JWT for authentication. It provides a streamlined experience, reducing confusion and ensuring accessibility.
+- [**Placement Portal 💼**](https://placement-portal-by-om.netlify.app/): A MERN stack web app designed for NIT Patna's placement process. It allows placement coordinators to create and manage company profiles, streamlining job information distribution for students.
+  <br>
+  <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 
-- [**Profile Map Navigator**](https://profile-navigator-with-map.vercel.app/): A web app for viewing and navigating user profiles through an interactive map interface. Features include map-based navigation and profile search, creating a seamless user experience.
+- [**Food Vision 🍛**](https://github.com/omraj0/Food-Vision): A deep learning project that classifies food items using CNNs, focusing on Indian cuisine. It accurately identifies food items from images, aiding in the classification process.
+  <br>
+  <br>
+    <img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" alt="Deep Learning" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/cnn/cnn-icon.svg" alt="CNN" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 
-- [**Food Vision**](https://github.com/omraj0/Food-Vision): A deep learning project that classifies food items using CNNs, focusing on Indian cuisine. It accurately identifies food items from images, aiding in the classification process.
+- [**Profile Map Navigator 📍**](https://profile-navigator-with-map.vercel.app/): A web app for viewing and navigating user profiles through an interactive map interface. Features include map-based navigation and profile search, creating a seamless user experience.
+  <br>
+  <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg" alt="Mapbox" width="40" height="40"/>
 
-- [**Fruits and Vegetables Recognition**](https://github.com/omraj0/Food-and-Vegetable-Recognition-): A fruit and vegetable recognition system using a custom CNN model with high accuracy. It helps in real-time recognition of various fruits and vegetables.
+- [**E-Cookbook 🍽️**](https://e-cook-book.vercel.app/): A recipe finder app that helps users find recipes based on ingredients or dishes. It integrates with the Edamam API and features a clean UI, filtering options, and displays key recipe details.
+  <br>
+  <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 
-- [**Blog Website**](https://github.com/omraj0/Blog-Website): A blog website that allows users to create, read, and edit blogs. It includes features such as authentication, dynamic blog management, and a clean interface for an optimal user experience.
-
-- [**E-CookBook**](https://e-cook-book.vercel.app/): A recipe finder app that helps users find recipes based on ingredients or dishes. It integrates with the Edamam API and features a clean UI, filtering options, and displays key recipe.
-
+---
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omraj0&show_icons=true&locale=en&layout=compact" alt="omraj0" />
