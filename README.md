@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Backend Development at Analytics Vidhya**, focusing on building scalable and efficient systems using Django.
+- 🔭 I’m currently working on **Backend Development at Analytics Vidhya**, focusing on building scalable and efficient systems using Django and GraphQL.
 
 - 💬 Ask me about **Backend development with Django, creating RESTful APIs, building dynamic full-stack web apps using React.js**, and **machine learning projects like Food Vision System**.
 
