@@ -101,7 +101,7 @@
 ---
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px; margin-bottom: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omraj0&hide=html&show_icons=true&locale=en&layout=compact" alt="omraj0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omraj0&hide=html,jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="omraj0" />
   <img src="https://github-readme-stats.vercel.app/api?username=omraj0&show_icons=true&locale=en" alt="omraj0" />
 </p>
 
