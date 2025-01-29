@@ -107,6 +107,6 @@
 
 <p align="center" style="margin-top: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omraj0" alt="omraj0" />
+  <img src="https://streak-stats.demolab.com?user=omraj0&theme=default" alt="omraj0" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omraj0)](https://git.io/streak-stats)
